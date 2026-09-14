@@ -41,13 +41,13 @@ title: 升学
 [HKUST School of Engineering Summer Camp for Elite Students](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp)
 
 参观性质的夏令营。科大会提供海景宿舍，交通报销，以及500港币的生活补助。工学院下属的IEDA（工业工程与决策系）属于对口院系。可以在系活动日听取Phd的学术汇报，与Prof进行informal meeting了解其研究情况与招生详情。需要注意的是，IEDA方向的营员每年仅有六人左右（学长学姐参加的这一届只有三个人^ ^）
-*需要联系至少一位Prof给你写推荐信。
+**需要联系至少一位Prof给你写推荐信**。
 
 [HKUST-IEDA暑研](https://mp.weixin.qq.com/s/NnmXr1jpDySSBFyQ8g5n8Q)
 
 为其一月的暑期研究项目，期间提供宿舍以及一万港币的生活补助，优秀者可以获得Phd/Mphil名额以及教授推荐信喔。宣讲会上你会发现和你竞争的同学很多都有华五及以上的背景，但可以试一试^ ^。
 Bar会很高？但勇敢去做。
-*该项目无需推荐信。
+**该项目无需推荐信**。
 
 ## 考公 / 选调
 
