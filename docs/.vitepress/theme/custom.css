@@ -63,7 +63,7 @@
   font-size: 15px;
 }
 
-/* 表格：更紧凑 */
+/* 表格：更紧凑，行悬浮便于横向读 */
 .vp-doc table {
   display: table;
   width: 100%;
@@ -74,9 +74,28 @@
   font-weight: 600;
 }
 
-/* 代码块中的 ASCII 树状图不要横向滚动 */
+.vp-doc tbody tr {
+  transition: background-color 0.2s;
+}
+
+.vp-doc tbody tr:hover {
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* 代码块圆角 */
 .vp-doc div[class*='language-'] {
   border-radius: 8px;
+}
+
+/* 正文图片：统一圆角与细边（不改尺寸） */
+.vp-doc img {
+  border-radius: 8px;
+}
+
+/* 链接下划线更松弛，长链接不糊成一片 */
+.vp-doc a {
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
 }
 
 /* ---------- 自定义容器微调 ---------- */
@@ -101,15 +120,36 @@
 .scut-home-section h2 {
   border: none;
   padding: 0;
-  margin: 0 0 8px;
+  margin: 0 0 10px;
   font-size: 24px;
   font-weight: 700;
+}
+
+/* 区块标题：左侧渐变短竖线，建立视觉锚点 */
+.scut-home-section h2::before {
+  content: '';
+  display: inline-block;
+  width: 4px;
+  height: 20px;
+  background: linear-gradient(180deg, var(--vp-c-brand-2), #6a8cc7);
+  border-radius: 2px;
+  margin-right: 10px;
+  vertical-align: -3px;
 }
 
 .scut-home-section .section-desc {
   color: var(--vp-c-text-2);
   margin-bottom: 28px;
   font-size: 15px;
+  line-height: 1.85;
+}
+
+/* 首页手册介绍的第二段：定位声明，降一级视觉层级 */
+.scut-home-section .section-note {
+  color: var(--vp-c-text-3);
+  font-size: 13.5px;
+  line-height: 1.8;
+  margin: -16px 0 28px;
 }
 
 .scut-card-grid {
@@ -223,13 +263,6 @@ a.scut-motto-inner:hover img {
   opacity: 1;
 }
 
-.scut-motto-hint {
-  margin: 10px 0 0;
-  text-align: center;
-  font-size: 13px;
-  color: var(--vp-c-text-3);
-}
-
 /* 单卡横贯整行（首页底部友情链接） */
 .scut-card-grid .span-all {
   grid-column: 1 / -1;
@@ -277,21 +310,6 @@ a.scut-motto-inner:hover img {
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   box-shadow: 0 8px 28px rgba(50, 83, 149, 0.16);
-}
-
-/* ---------- 2.6 人际生活：公众号二维码 / 头像图居中 ---------- */
-
-.life-page .vp-doc a img {
-  display: block;
-  margin: 1.2rem auto;
-  border-radius: 12px;
-  border: 1px solid var(--vp-c-divider);
-  transition: transform 0.25s, box-shadow 0.25s;
-}
-
-.life-page .vp-doc a img:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(50, 83, 149, 0.14);
 }
 
 /* ---------- 附录 D.2：《维特鲁威》诗页 ---------- */

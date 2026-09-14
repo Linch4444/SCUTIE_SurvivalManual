@@ -113,12 +113,6 @@ title: 学业课业
 
 这门课就是**数据库的现实应用**。刘勇老师怪有趣的，会和你讲如何混吃混喝。
 
-
-
-
-
-
-
 **课程论文早点写**，用 AI 生成也行，但**注意查重**。
 
 恭喜你🎉找到这个彩蛋
@@ -164,7 +158,7 @@ title: 学业课业
 
 在 ARENA 里，用 `Create → Process → Disposal` 三个模块就能做仿真，最后看报告、用 Plot 画图优化等待时间。
 
-入门视频：https://www.bilibili.com/video/BV1vP41117Ss/
+入门视频：[B 站 · ARENA 仿真入门](https://www.bilibili.com/video/BV1vP41117Ss/)
 
 ---
 
@@ -199,7 +193,7 @@ title: 学业课业
 ## 学习资料与平台
 
 - **27 届 / 23 级 IE 资料（百度网盘）**：[点此打开](https://pan.baidu.com/s/1Y6gElc-mtLjXLv5U70SNPA?pwd=38su)　提取码：`38su`
-- **课程资料站**：https://www.dxuexi.com/h5/#/pages/category/category
+- **课程资料站**：[dxuexi 课程资料](https://www.dxuexi.com/h5/#/pages/category/category)
 - **包打听**（历年试卷、实践资料）
 - **期末不挂科**（知识点逻辑体系梳理）
 - **edX / Coursera / 中国大学 MOOC / B 站**：自学补充
