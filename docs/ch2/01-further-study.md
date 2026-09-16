@@ -50,8 +50,8 @@ title: 升学
 
 ### 可以看一看申美：
 
-[【腾讯文档】美国MSCS申请复盘]
-(https://docs.qq.com/doc/DWkR0aWFzR2ZzYkJI)
+**学姐经验-如需提问直接@文档拥有人**
+[【腾讯文档】美国MSCS申请复盘](https://docs.qq.com/doc/DWkR0aWFzR2ZzYkJI)
 
 ### 可以看一看港三：
 
