@@ -77,7 +77,7 @@ IE 有历年来传承的大群，师兄师姐分布在各行各业——问问�
 
 ### [西林的主页](https://cirinmok.github.io/)
 
-<a href="[https://cirinmok.github.io/](https://github.com/CirinMok)">
+<a href="https://github.com/CirinMok">
   <img width="100" height="100" alt="西林" src="https://github.com/user-attachments/assets/43c283c6-1339-43cf-a232-8eaa62acf876" />
 </a>
 
