@@ -42,7 +42,7 @@ title: 升学
 
 另外，强烈推荐看[《上海交通大学学生生存手册》](https://github.com/SurviveSJTU/SurviveSJTUManual)里关于出国的部分，写得很扎实。
 
-如果你是 IE 想出国（硕士项目），方向大致有：
+### 如果你是 IE 想出国（硕士项目），方向大致有：
 
 - **Industrial Engineering / Operations Research**：最对口
 - **Business Analytics / Data Science**：就业导向强，近年热门
@@ -50,7 +50,7 @@ title: 升学
 
 需要注意的是，和国内一样，IE的分属因学校而定，可能在工程学院或商学院。商学院相关的IE项目费用可能更高。
 
-如果你是 IE 想出国（博士项目），未来主要是学术向就业了。
+### 如果你是 IE 想出国（博士项目），未来主要是学术向就业了。
 
 香港读phd的19IEer讲一讲未来学术的去处吧。身边商学院能去的主要是三个方向：
 1. operations management - OM：OR（运筹优化）、modeling（博弈模型）
@@ -66,9 +66,9 @@ title: 升学
 ### 可以看一看港三：
 
 **HKU**:
-
+todo...
 **CUHK**:
-
+todo...
 **HKUST**:
 
 [港科HKUST参观性质的夏令营](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp)。科大会提供海景宿舍/交通报销/生活补助，工学院下属的IEDA（工业工程与决策系）属于对口院系。可以在系活动日与Prof进行informal meeting了解其研究方向与招生详情。
@@ -81,8 +81,9 @@ Bar会很高？但勇敢去做。
 ### 可以看一看新二：
 
 **NUS**:
-
+todo...
 **NTU**:
+todo...
 
 ## 考公 / 选调
 
