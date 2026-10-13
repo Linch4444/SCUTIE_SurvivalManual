@@ -35,7 +35,7 @@ features:
   - icon: 🗺️
     title: 附录 工具与地图
     details: 搜索方法论、批判性思维谬误清单、学科知识地图。可以当字典用，需要的时候翻。
-    link: /appendix/a1-search
+    link: /appendix/a
     linkText: 打开附录
 ---
 
