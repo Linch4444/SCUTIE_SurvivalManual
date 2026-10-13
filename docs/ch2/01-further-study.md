@@ -42,13 +42,18 @@ title: 升学
 
 另外，强烈推荐看[《上海交通大学学生生存手册》](https://github.com/SurviveSJTU/SurviveSJTUManual)里关于出国的部分，写得很扎实。
 
-如果你是 IE 想出国，方向大致有：
+如果你是 IE 想出国（硕士项目），方向大致有：
 
 - **Industrial Engineering / Operations Research**：最对口
 - **Business Analytics / Data Science**：就业导向强，近年热门
 - **Supply Chain Management**：偏管理，申请门槛相对友好
 
 需要注意的是，和国内一样，IE的分属因学校而定，可能在工程学院或商学院。商学院相关的IE项目费用可能更高。
+
+博士项目的话未来主要是学术向就业了。19IE的想讲一讲未来学术的去处吧。我在香港读phd，身边商学院能去的主要是三个方向：
+1. operations management - OM：OR（运筹优化）、modeling（博弈模型）
+2. information systems - IS：design science（算法）、empirical（实证）、behavioral（行为学实验）
+3. Management - Mgmt：很少数，我们也有人是去读企业管理的phd的，主要范式也是发发问卷做做实验）。
 
 ### 可以看一看申美：
 
