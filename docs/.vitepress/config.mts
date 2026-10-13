@@ -35,7 +35,7 @@ export default defineConfig({
     // 统一由左侧侧边栏承载（见 sidebar.mts 自动生成）
     nav: [
       { text: '首页', link: '/' },
-      { text: '附录', link: '/appendix/a1-search', activeMatch: '^/appendix/' },
+      { text: '附录', link: '/appendix/a', activeMatch: '^/appendix/' },
       { text: '关于', link: '/about' },
     ],
 
