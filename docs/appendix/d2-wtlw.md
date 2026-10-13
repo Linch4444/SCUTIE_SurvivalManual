@@ -27,4 +27,4 @@ pageClass: wtlw-page
 
 针对这数不尽的问号，SCUT 学生创新俱乐部为你带来解决的办法。
 
-翻开这本[《维特鲁威》](https://mp.weixin.qq.com/s/hFHxhKvrGdRdwInxa0wt3Q)，它将给你答案。
+翻开这本[华工手册《维特鲁威》](https://scut.wiki)，它将给你答案。
