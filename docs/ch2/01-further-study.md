@@ -52,7 +52,7 @@ title: 升学
 
 ### 如果你是 IE 想出国（博士项目），未来主要是学术向就业了。
 
-[Dylan Junluo CHEN](https://github.com/chen-junluo)：香港读phd的19IEer讲一讲未来学术的去处吧。身边商学院能去的主要是三个方向：
+[@19IE-Dylan Junluo CHEN](https://github.com/chen-junluo)：香港读phd的19IEer讲一讲未来学术的去处吧。身边商学院能去的主要是三个方向：
 1. operations management - OM：OR（运筹优化）、modeling（博弈模型）
 2. information systems - IS：design science（算法）、empirical（实证）、behavioral（行为学实验）
 3. Management - Mgmt：很少数，我们也有人是去读企业管理的phd的，主要范式也是发发问卷做做实验）。
@@ -71,7 +71,7 @@ todo...
 todo...
 **HKUST**:
 
-[CirinMok](https://github.com/CirinMok)：[港科HKUST参观性质的夏令营](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp)。科大会提供海景宿舍/交通报销/生活补助，工学院下属的IEDA（工业工程与决策系）属于对口院系。可以在系活动日与Prof进行informal meeting了解其研究方向与招生详情。
+[@23IE-CirinMok](https://github.com/CirinMok)：我在大三暑期参加了[港科HKUST参观性质的夏令营](https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp)。科大会提供海景宿舍/交通报销/生活补助，工学院下属的IEDA（工业工程与决策系）属于对口院系。可以在系活动日与Prof进行informal meeting了解其研究方向与招生详情。
 **该项目需要联系至少一位Prof给你写推荐信**。
 
 [港科HKUST-IEDA暑研](https://mp.weixin.qq.com/s/NnmXr1jpDySSBFyQ8g5n8Q)为其一月的暑期研究项目，期间提供宿舍以及一万港币的生活补助，优秀者可以获得Phd/Mphil名额以及教授推荐信喔。宣讲会上你会发现和你竞争的同学很多都有华五及以上的背景，但可以试一试^ ^。
