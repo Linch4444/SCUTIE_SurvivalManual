@@ -19,6 +19,10 @@ title: A.5-A.6 找数据与识破欺骗
 - CB Insights（独角兽）
 
 **付费专业数据：** 彭博、路透、S&P、Wind
+::: warning
+如果你是因为完成计量论文来到这的，可以尝试在学校图书馆https://www.lib.scut.edu.cn/zwsjk_40859/ 找到相应的付费数据库
+推荐 CSMAR ，有完整的国内上市公司财务数据！
+:::
 
 ---
 
