@@ -87,8 +87,11 @@ features:
   <h2>友情链接</h2>
   <p class="section-desc">手册之外，这些人也在认真回答「华工怎么读」。</p>
   <div class="scut-card-grid">
-    <ScutCard class="span-all" href="/ch2/06-life" index="2.6 人际生活" title="IE 交流群 · 校友公众号 · 华工友情链接">
-      历届传承的 IE 大群、21 级公众号，以及华工手册、各学院课程仓库等校友资源，都收在第二章末尾的「人际生活」。
+    <ScutCard href="/ch2/06-life" index="2.6 人际生活" title="IE 交流群 · 校友主页">
+      历届传承的 IE 大群与 21 级公众号，以及校友个人主页，都收在第二章末尾的「人际生活」。
+    </ScutCard>
+    <ScutCard href="/appendix/e" index="附录 E" title="华工友情链接">
+      飞跃手册、生存手册、各学院课程仓库、社团与技术社区等外部资源，按用途分类收在附录 E。
     </ScutCard>
   </div>
 </div>
