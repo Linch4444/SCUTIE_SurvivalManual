@@ -70,15 +70,13 @@ function buildChapter(dirName: string, chapterNo: number, label: string): Sideba
   }
 }
 
-/** 附录：按文件名首字母 a / b / c / d / e 自动分组，条目文字直接用 frontmatter title */
+/** 附录：a/b/c 合为工具与方法的三个小节，d/e 保留独立分组和原页面地址 */
 function buildAppendix(): SidebarGroup[] {
   const dir = path.join(docsRoot, 'appendix')
-  const groups: Array<{ prefix: string; label: string }> = [
-    { prefix: 'a', label: '附录 A 搜索方法论' },
-    { prefix: 'b', label: '附录 B 批判性思维' },
-    { prefix: 'c', label: '附录 C 学科知识地图' },
-    { prefix: 'd', label: '附录 D 实用工具' },
-    { prefix: 'e', label: '附录 E 华工友情链接' },
+  const groups: Array<{ prefixes: string[]; label: string }> = [
+    { prefixes: ['a', 'b', 'c'], label: '附录 A 工具与方法' },
+    { prefixes: ['d'], label: '附录 D 实用工具' },
+    { prefixes: ['e'], label: '附录 E 华工友情链接' },
   ]
 
   const files = fs
@@ -87,9 +85,9 @@ function buildAppendix(): SidebarGroup[] {
     .sort()
 
   return groups
-    .map(({ prefix, label }) => {
+    .map(({ prefixes, label }) => {
       const items: SidebarItem[] = files
-        .filter((f) => f.toLowerCase().startsWith(prefix))
+        .filter((f) => prefixes.some((prefix) => f.toLowerCase().startsWith(prefix)))
         .map((f) => ({
           text: readTitle(path.join(dir, f)),
           link: `/appendix/${f.replace(/\.md$/, '')}`,
